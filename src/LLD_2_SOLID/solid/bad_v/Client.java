@@ -1,4 +1,4 @@
-package LLD_2_SOLID.bad_v;
+package LLD_2_SOLID.solid.bad_v;
 
 public class Client {
     public static void main(String[] args) {

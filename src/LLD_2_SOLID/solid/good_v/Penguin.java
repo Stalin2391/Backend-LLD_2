@@ -1,4 +1,4 @@
-package LLD_2_SOLID.good_v;
+package LLD_2_SOLID.solid.good_v;
 
 public class Penguin extends Bird implements Dancing{
     @Override
