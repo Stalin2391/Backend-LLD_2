@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4567111e-f21e-46ea-9d55-78076aff00d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend_LLD_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/bad_v/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/bad_v/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/good_v/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/good_v/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/good_v/Dancing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/good_v/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/good_v/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/good_v/Sparrow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -43,12 +40,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Client.executor": "Run",
+    "Application.LLD_2_SOLID.good_v.Client.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/apple/IdeaProjects/Backend_LLD_2/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.LLD_2_SOLID.good_v.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LLD_2_SOLID.bad_v.Client" />
       <module name="Backend_LLD_2" />
@@ -62,8 +60,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LLD_2_SOLID.good_v.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LLD_2_SOLID.good_v.Client" />
+      <module name="Backend_LLD_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LLD_2_SOLID.good_v.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LLD_2_SOLID.good_v.Client" />
         <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
