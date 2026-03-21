@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4567111e-f21e-46ea-9d55-78076aff00d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/builder/v0/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/builder/v0/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/builder/v0/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4567111e-f21e-46ea-9d55-78076aff00d3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +53,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Client.executor": "Debug",
-    "Application.LLD_2_SOLID.designPatterns.builder.v0.Client.executor": "Run",
+    "Application.LLD_2_SOLID.designPatterns.builder.v0.Client.executor": "Debug",
     "Application.LLD_2_SOLID.designPatterns.singleton.Client.executor": "Debug",
     "Application.LLD_2_SOLID.designPatterns.singleton.v1.Client.executor": "Debug",
     "Application.LLD_2_SOLID.designPatterns.singleton.v2.Client.executor": "Debug",
