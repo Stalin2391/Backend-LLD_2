@@ -1,13 +1,10 @@
-package LLD_2_SOLID.designPatterns.prototype.v0;
+package LLD_2_SOLID.designPatterns.prototype.v1;
+
+import LLD_2_SOLID.designPatterns.prototype.v0.IntelligentStundet;
 
 public class Client {
     public static void main(String[] args) {
         IntelligentStundet is = new IntelligentStundet();
-        is.iq = 140;
-        IntelligentStundet is2 = is.copy();
-        is2.iq = 150;
-
-        System.out.println(is.iq);
 
         System.out.println("DEBUG");
     }
