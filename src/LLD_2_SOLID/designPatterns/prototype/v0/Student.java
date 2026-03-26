@@ -5,25 +5,18 @@ public class Student {
     private int age;
     private String batch;
     private Double psp;
-    Student(String name, int age, String batch, Double psp){
-        this.name = name;
-        this.age = age;
-        this.batch = batch;
-        this.psp = psp;
+
+    public Student(){
 
     }
-    Student(Student other){
+    public Student(Student other) {
         this.name = other.name;
         this.age = other.age;
         this.batch = other.batch;
         this.psp = other.psp;
     }
-
-    public String getName() {
-        return name;
-    }
-    public void setName(String name) {
-        this.name = name;
+    Student copy(){
+        return new Student(this);
     }
 
 }
