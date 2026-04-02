@@ -5,46 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4567111e-f21e-46ea-9d55-78076aff00d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/structural/adapter/BankAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/structural/adapter/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/structural/adapter/IciciBankAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/structural/adapter/YesBankAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/structural/adapter/thirdParty/icicBank/IcicBankAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/structural/adapter/thirdParty/yesBank/YesBankAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/behavioural/strategy/BikePathCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/behavioural/strategy/CarPathCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/behavioural/strategy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/behavioural/strategy/GoogleMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/behavioural/strategy/PathCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/behavioural/strategy/TrainPathCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/behavioural/strategy/WalkPathCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/builder/v0/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/builder/v0/Builder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/builder/v0/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/builder/v0/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/builder/v0/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/builder/v0/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/builder/v1/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/builder/v1/Builder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/builder/v1/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/builder/v1/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/builder/v1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/builder/v1/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/builder/v2/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/builder/v2/Builder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/builder/v2/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/builder/v2/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/builder/v2/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/builder/v2/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/builder/v3/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/builder/v3/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/builder/v3/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/builder/v3/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/prototype/v0/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/prototype/v0/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/prototype/v0/IntelligentStundet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/prototype/v0/IntelligentStundet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/prototype/v0/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/prototype/v0/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/prototype/v1/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/prototype/v1/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/prototype/v1/IntelligentStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/prototype/v1/IntelligentStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/prototype/v1/Prototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/prototype/v1/Prototype.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/prototype/v1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/prototype/v1/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/prototype/v2/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/prototype/v2/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/prototype/v2/IntelligentStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/prototype/v2/IntelligentStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/prototype/v2/Prototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/prototype/v2/Prototype.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/prototype/v2/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/prototype/v2/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/prototype/v2/StudentRegistry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/prototype/v2/StudentRegistry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/singleton/v0/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/singleton/v0/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/singleton/v0/DbConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/singleton/v0/DbConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/singleton/v1/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/singleton/v1/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/singleton/v1/DbConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/singleton/v1/DbConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/singleton/v2/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/singleton/v2/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/singleton/v2/DbConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/singleton/v2/DbConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/singleton/v3/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/singleton/v3/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/singleton/v3/DbConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/singleton/v3/DbConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/singleton/v4/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/singleton/v4/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/singleton/v4/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/singleton/v4/DBConnection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,38 +59,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Client.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.LLD_2_SOLID.designPatterns.builder.v0.Client.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LLD_2_SOLID.designPatterns.builder.v2.Client.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.LLD_2_SOLID.designPatterns.builder.v3.Client.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.LLD_2_SOLID.designPatterns.prototype.v0.Client.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.LLD_2_SOLID.designPatterns.prototype.v1.Client.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.LLD_2_SOLID.designPatterns.singleton.Client.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.LLD_2_SOLID.designPatterns.singleton.v1.Client.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.LLD_2_SOLID.designPatterns.singleton.v2.Client.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.LLD_2_SOLID.designPatterns.singleton.v3.Client.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.LLD_2_SOLID.good_v.Client.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/apple/IdeaProjects/Backend_LLD_2/src/LLD_2_SOLID/designPatterns/singleton/v2&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/apple/IdeaProjects/Backend_LLD_2/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Client.executor": "Debug",
+    "Application.LLD_2_SOLID.designPatterns.behavioural.strategy.Client.executor": "Debug",
+    "Application.LLD_2_SOLID.designPatterns.builder.v0.Client.executor": "Run",
+    "Application.LLD_2_SOLID.designPatterns.builder.v2.Client.executor": "Debug",
+    "Application.LLD_2_SOLID.designPatterns.builder.v3.Client.executor": "Debug",
+    "Application.LLD_2_SOLID.designPatterns.prototype.v0.Client.executor": "Debug",
+    "Application.LLD_2_SOLID.designPatterns.prototype.v1.Client.executor": "Debug",
+    "Application.LLD_2_SOLID.designPatterns.singleton.Client.executor": "Debug",
+    "Application.LLD_2_SOLID.designPatterns.singleton.v1.Client.executor": "Debug",
+    "Application.LLD_2_SOLID.designPatterns.singleton.v2.Client.executor": "Debug",
+    "Application.LLD_2_SOLID.designPatterns.singleton.v3.Client.executor": "Debug",
+    "Application.LLD_2_SOLID.designPatterns.structural.adapter.Client.executor": "Debug",
+    "Application.LLD_2_SOLID.good_v.Client.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/apple/IdeaProjects/Backend_LLD_2/src/LLD_2_SOLID/designPatterns/singleton/v2",
+    "onboarding.tips.debug.path": "/Users/apple/IdeaProjects/Backend_LLD_2/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/singleton/v2" />
       <recent name="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/singleton" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LLD_2_SOLID.designPatterns.structural.adapter.Client">
+  <component name="RunManager" selected="Application.LLD_2_SOLID.designPatterns.behavioural.strategy.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LLD_2_SOLID.designPatterns.creational.prototype.v2.Client" />
       <module name="Backend_LLD_2" />
@@ -136,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LLD_2_SOLID.designPatterns.creational.builder.v3.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LLD_2_SOLID.designPatterns.creational.builder.v3.Client" />
+    <configuration name="LLD_2_SOLID.designPatterns.behavioural.strategy.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LLD_2_SOLID.designPatterns.behavioural.strategy.Client" />
       <module name="Backend_LLD_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LLD_2_SOLID.designPatterns.creational.builder.v3.*" />
+          <option name="PATTERN" value="LLD_2_SOLID.designPatterns.behavioural.strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LLD_2_SOLID.designPatterns.behavioural.strategy.Client" />
         <item itemvalue="Application.LLD_2_SOLID.designPatterns.structural.adapter.Client" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.LLD_2_SOLID.designPatterns.creational.prototype.v1.Client" />
         <item itemvalue="Application.LLD_2_SOLID.designPatterns.creational.prototype.v0.Client" />
-        <item itemvalue="Application.LLD_2_SOLID.designPatterns.creational.builder.v3.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -232,6 +202,11 @@
           <url>file://$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/creational/singleton/v0/Client.java</url>
           <line>7</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/behavioural/strategy/Client.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
