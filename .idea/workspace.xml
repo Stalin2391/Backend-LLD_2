@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4567111e-f21e-46ea-9d55-78076aff00d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/behavioural/strategy/v2/BikePathFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/behavioural/strategy/v2/CarPathFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/behavioural/strategy/v2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/behavioural/strategy/v2/GoogleMaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/behavioural/strategy/v2/PathFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/behavioural/strategy/v2/PathStrategyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/behavioural/strategy/v2/TrainPathFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/behavioural/strategy/v2/TravelMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/behavioural/strategy/v2/WalkPathFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/behavioural/strategy/demo/v3/CarPathFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/behavioural/strategy/demo/v3/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/behavioural/strategy/demo/v3/GoogleMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/behavioural/strategy/demo/v3/PathStratedyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/behavioural/strategy/demo/v3/PathStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/behavioural/strategy/demo/v3/TravelMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/behavioural/strategy/demo/v3/WalkPathFinder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -66,6 +64,7 @@
   "keyToString": {
     "Application.Client.executor": "Debug",
     "Application.LLD_2_SOLID.designPatterns.behavioural.strategy.Client.executor": "Run",
+    "Application.LLD_2_SOLID.designPatterns.behavioural.strategy.demo.v3.Client.executor": "Run",
     "Application.LLD_2_SOLID.designPatterns.behavioural.strategy.v1.Client.executor": "Run",
     "Application.LLD_2_SOLID.designPatterns.behavioural.strategy.v2.Client.executor": "Run",
     "Application.LLD_2_SOLID.designPatterns.builder.v0.Client.executor": "Run",
@@ -97,13 +96,13 @@
       <recent name="$PROJECT_DIR$/src/LLD_2_SOLID/designPatterns/singleton" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LLD_2_SOLID.designPatterns.behavioural.strategy.v2.Client">
+  <component name="RunManager" selected="Application.LLD_2_SOLID.designPatterns.behavioural.strategy.demo.v3.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LLD_2_SOLID.designPatterns.creational.prototype.v2.Client" />
+      <option name="MAIN_CLASS_NAME" value="LLD_2_SOLID.designPatterns.behavioural.strategy.demo.v3.Client" />
       <module name="Backend_LLD_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LLD_2_SOLID.designPatterns.creational.prototype.v2.*" />
+          <option name="PATTERN" value="LLD_2_SOLID.designPatterns.behavioural.strategy.demo.v3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LLD_2_SOLID.designPatterns.behavioural.strategy.demo.v3.Client" />
         <item itemvalue="Application.LLD_2_SOLID.designPatterns.behavioural.strategy.v2.Client" />
         <item itemvalue="Application.LLD_2_SOLID.designPatterns.behavioural.strategy.v1.Client" />
         <item itemvalue="Application.LLD_2_SOLID.designPatterns.behavioural.strategy.v0.Client" />
         <item itemvalue="Application.LLD_2_SOLID.designPatterns.structural.adapter.Client" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
